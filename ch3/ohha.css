@@ -1,0 +1,45 @@
+body {
+  background-color: ivory;
+}
+h1 {
+  text-align: center;
+}
+.name {
+  font-size: 1.1em;
+}
+.color {
+  font-size: 0.8em;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
+
+.bigspace {
+  width: 150px;
+  height: 270px;
+  margin: 10px;
+  position: relative;
+  border: 5px solid white;
+}
+
+.smallspace {
+  width: 100%;
+  height: 90px;
+  position: absolute;
+  top: 15px;
+  background-color: white;
+}
+#tomato {
+  background-color: tomato;
+}
+#teal {
+  background-color: teal;
+}
+#burlywood {
+  background-color: burlywood;
+}
+#thistle {
+  background-color: thistle;
+}
